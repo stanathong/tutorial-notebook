@@ -5,6 +5,6 @@ Most of the contents are extracted from _Deep Learning Nano Degree_ courses from
 The notes are made as Jupyter Notebooks.  
 
 # Content  
->NumPy
->Keras
+>NumPy  
+>Keras  
 >TensorFlow
